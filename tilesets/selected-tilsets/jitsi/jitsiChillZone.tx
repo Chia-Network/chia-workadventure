@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="jitsiChillZone" type="area" width="192" height="128">
+  <properties>
+   <property name="focusable" type="bool" value="true"/>
+   <property name="jitsiRoom" value="ChillZone"/>
+   <property name="jitsiTrigger" value="onaction"/>
+   <property name="zoom_margin" type="float" value="1"/>
+  </properties>
+ </object>
+</template>
