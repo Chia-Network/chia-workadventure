@@ -2025,7 +2025,7 @@
         {
          "columns":98,
          "firstgid":3497,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/outdoors\/outdoors-exterior.png",
+         "image":"src\/assets\/outdoors\/outdoors-exterior.png",
          "imageheight":1326,
          "imagewidth":3136,
          "margin":0,
@@ -2038,7 +2038,7 @@
         {
          "columns":25,
          "firstgid":7515,
-         "image":"..\/camp-chia\/tilesets\/WA_Room_Builder.png",
+         "image":"src\/assets\/interiors\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -2051,7 +2051,7 @@
         {
          "columns":32,
          "firstgid":8515,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/interiors\/Room_Builder_Walls_32x32.png",
+         "image":"src\/assets\/interiors\/Room_Builder_Walls_32x32.png",
          "imageheight":1280,
          "imagewidth":1024,
          "margin":0,
@@ -2103,7 +2103,7 @@
         {
          "columns":15,
          "firstgid":10952,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/interiors\/Room_Builder_Floors_32x32.png",
+         "image":"src\/assets\/interiors\/Room_Builder_Floors_32x32.png",
          "imageheight":1280,
          "imagewidth":480,
          "margin":0,
@@ -2207,7 +2207,7 @@
         {
          "columns":6,
          "firstgid":15600,
-         "image":"..\/camp-chia\/tilesets\/WA_Special_Zones.png",
+         "image":"src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
