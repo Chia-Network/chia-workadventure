@@ -1903,11 +1903,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        }, 
-                        {
-                         "name":"policy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }],
                  "rotation":0,
                  "type":"area",
