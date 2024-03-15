@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/Chia-Network.github.io\/chia-workadventure\/stage.tmj"
+                 "value":"https:\/\/play.workadventu.re\/@\/chia-network-inc\/chia-mainnet-3-year\/chiamainnetcelebrationstage"
                 }],
          "type":"tilelayer",
          "visible":true,
