@@ -144726,14 +144726,19 @@
           "height": 355.666666666667,
           "properties": [
             {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://www.youtube.com/embed/live_stream?channel=UChFkJ3OAUvnHZdiQISWdWPA"
+            },
+            {
+              "name": "openWebsitePolicy",
+              "type": "string",
+              "value": "fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
               "name": "policy",
               "type": "string",
               "value": "fullscreen"
-            },
-            {
-              "name": "url",
-              "type": "string",
-              "value": "https://www.youtube.com/embed/live_stream?channel=UChFkJ3OAUvnHZdiQISWdWPA"
             }
           ],
           "rotation": 0,
@@ -181085,7 +181090,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-eabbede8.png",
+      "image": "map-chunk-1-df9681d7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -181121,7 +181126,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-eabbede8.png",
+      "image": "map-chunk-2-df9681d7.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
