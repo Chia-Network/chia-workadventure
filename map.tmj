@@ -144734,11 +144734,6 @@
               "name": "openWebsitePolicy",
               "type": "string",
               "value": "fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            },
-            {
-              "name": "policy",
-              "type": "string",
-              "value": "fullscreen"
             }
           ],
           "rotation": 0,
@@ -181090,7 +181085,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-df9681d7.png",
+      "image": "map-chunk-1-098988a4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -181126,7 +181121,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-df9681d7.png",
+      "image": "map-chunk-2-098988a4.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
