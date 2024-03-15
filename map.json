@@ -2012,7 +2012,7 @@
         {
          "columns":76,
          "firstgid":1,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/outdoors\/2-outdoors.png",
+         "image":"src\/assets\/outdoors\/2-outdoors.png",
          "imageheight":1478,
          "imagewidth":2432,
          "margin":0,
