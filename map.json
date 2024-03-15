@@ -2233,20 +2233,56 @@
          "tilewidth":32
         }, 
         {
+         "columns":29,
          "firstgid":15612,
-         "source":"tilesets\/selected-tilsets\/logos\/SplitHead_Logo.tsx"
+         "image":"src\/assets\/logos\/SplitHead_Logo.png",
+         "imageheight":864,
+         "imagewidth":928,
+         "margin":0,
+         "name":"SplitHead_Logo",
+         "spacing":0,
+         "tilecount":783,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":29,
          "firstgid":16395,
-         "source":"tilesets\/selected-tilsets\/logos\/MZ_Logo.tsx"
+         "image":"src\/assets\/logos\/MZ_Logo.png",
+         "imageheight":864,
+         "imagewidth":928,
+         "margin":0,
+         "name":"MZ_Logo",
+         "spacing":0,
+         "tilecount":783,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":29,
          "firstgid":17178,
-         "source":"tilesets\/selected-tilsets\/logos\/MintGarden_Logo.tsx"
+         "image":"src\/assets\/logos\/MintGarden_Logo.png",
+         "imageheight":864,
+         "imagewidth":928,
+         "margin":0,
+         "name":"MintGarden_Logo",
+         "spacing":0,
+         "tilecount":783,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":29,
          "firstgid":17961,
-         "source":"tilesets\/selected-tilsets\/logos\/Circuit_Logo.tsx"
+         "image":"src\/assets\/logos\/Circuit_Logo.png",
+         "imageheight":864,
+         "imagewidth":928,
+         "margin":0,
+         "name":"Circuit_Logo",
+         "spacing":0,
+         "tilecount":783,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
