@@ -1895,14 +1895,19 @@
                  "name":"chia_auditorium",
                  "properties":[
                         {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UChFkJ3OAUvnHZdiQISWdWPA"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        }, 
+                        {
                          "name":"policy",
                          "type":"string",
                          "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UChFkJ3OAUvnHZdiQISWdWPA"
                         }],
                  "rotation":0,
                  "type":"area",
