@@ -145019,6 +145019,28 @@
           "rotation": 0,
           "type": "area",
           "width": 94
+        },
+        {
+          "id": 30,
+          "name": "clock",
+          "visible": true,
+          "x": 2090.66668030303,
+          "y": 2022.45453030303,
+          "height": 39.697,
+          "rotation": 0,
+          "type": "area",
+          "width": 50.2727
+        },
+        {
+          "id": 31,
+          "name": "clockPopup",
+          "visible": true,
+          "x": 2072.1419,
+          "y": 1955.66635,
+          "height": 61.6673,
+          "rotation": 0,
+          "type": "",
+          "width": 93.7162
         }
       ],
       "opacity": 1,
@@ -181085,7 +181107,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-58027125.png",
+      "image": "map-chunk-1-1d7d65b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -181121,7 +181143,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-58027125.png",
+      "image": "map-chunk-2-1d7d65b8.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -181139,7 +181161,7 @@
   "height": 100,
   "infinite": false,
   "nextlayerid": 35,
-  "nextobjectid": 30,
+  "nextobjectid": 32,
   "orientation": "orthogonal",
   "properties": [
     {
