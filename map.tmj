@@ -2064,7 +2064,7 @@
         {
          "columns":29,
          "firstgid":9795,
-         "image":"..\/..\/..\/..\/Downloads\/Chia_Leaf.png",
+         "image":"src\/assets\/logos\/Chia_Leaf.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2129,7 +2129,7 @@
         {
          "columns":29,
          "firstgid":11822,
-         "image":"..\/..\/..\/..\/Downloads\/NFTr_Logo.png",
+         "image":"src\/assets\/logos\/NFTr_Logo.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2155,7 +2155,7 @@
         {
          "columns":29,
          "firstgid":12878,
-         "image":"..\/..\/..\/..\/Downloads\/Dexie_Logo.png",
+         "image":"src\/assets\/logos\/Dexie_Logo.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2168,7 +2168,7 @@
         {
          "columns":29,
          "firstgid":13661,
-         "image":"..\/..\/..\/..\/Downloads\/Chia_Logo_Small.png",
+         "image":"src\/assets\/logos\/Chia_Logo_Small.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
