@@ -24027,7 +24027,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "https://Chia-Network.github.io/chia-workadventure/stage.tmj"
+          "value": "https://play.workadventu.re/@/chia-network-inc/chia-mainnet-3-year/chiamainnetcelebrationstage"
         }
       ],
       "x": 0,
@@ -180858,7 +180858,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-21ea8354.png",
+      "image": "map-chunk-1-35aa398f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -180894,7 +180894,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-21ea8354.png",
+      "image": "map-chunk-2-35aa398f.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
