@@ -24027,7 +24027,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "/stage.tmj"
+          "value": "https://Chia-Network.github.io/chia-workadventure/stage.tmj"
         }
       ],
       "x": 0,
@@ -180858,7 +180858,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-230f4f2e.png",
+      "image": "map-chunk-1-21ea8354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -180894,7 +180894,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-230f4f2e.png",
+      "image": "map-chunk-2-21ea8354.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
