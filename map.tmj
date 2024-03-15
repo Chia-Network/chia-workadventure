@@ -144728,7 +144728,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.youtube.com/embed/live_stream?channel=UChFkJ3OAUvnHZdiQISWdWPA"
+              "value": "https://www.youtube.com/embed/zBaLJAR_GWc?si=_4zyyknS32FhAD5I"
             },
             {
               "name": "openWebsitePolicy",
@@ -181085,7 +181085,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-098988a4.png",
+      "image": "map-chunk-1-58027125.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -181121,7 +181121,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-098988a4.png",
+      "image": "map-chunk-2-58027125.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
