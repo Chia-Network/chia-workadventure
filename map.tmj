@@ -12008,7 +12008,7 @@
       "name": "start",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 120,
       "x": 0,
       "y": 0
@@ -84104,7 +84104,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 10,
       "x": 0,
       "y": 0
@@ -108141,7 +108141,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 11,
       "x": 0,
       "y": 0
@@ -144191,7 +144191,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 6,
       "x": 0,
       "y": 0
@@ -144792,11 +144792,263 @@
           "rotation": 0,
           "type": "area",
           "width": 94
+        },
+        {
+          "id": 19,
+          "name": "exhibit_site_1",
+          "visible": true,
+          "x": 1122,
+          "y": 1693.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://dexie.space/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the Dexie Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 20,
+          "name": "exhibit_site_2",
+          "visible": true,
+          "x": 1123,
+          "y": 1182.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://splithead.art/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the SplitHead Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 21,
+          "name": "exhibit_site_3",
+          "visible": true,
+          "x": 1123,
+          "y": 668.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://www.monkeyzoo.net/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the MonkeyZoo Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 23,
+          "name": "exhibit_site_4",
+          "visible": true,
+          "x": 1603,
+          "y": 572.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://mintgarden.io"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the MintGarden Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 24,
+          "name": "exhibit_site_5",
+          "visible": true,
+          "x": 2017,
+          "y": 570.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://circuitdao.com"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the Circuit DAO Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 25,
+          "name": "exhibit_site_8",
+          "visible": true,
+          "x": 2623,
+          "y": 1182.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://www.chia.net/2023/03/19/mainnet-year-two/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the Chia Mainnet Anniversary Blog in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 26,
+          "name": "exhibit_site_6",
+          "visible": true,
+          "x": 2435,
+          "y": 570.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://nftr.pro/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the NFTr Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 27,
+          "name": "exhibit_site_7",
+          "visible": true,
+          "x": 2621,
+          "y": 666.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://v2.tibetswap.io/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the TibetSwap Website in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 28,
+          "name": "exhibit_site_9",
+          "visible": true,
+          "x": 2625,
+          "y": 1694.83335,
+          "height": 62.3333,
+          "properties": [
+            {
+              "name": "openTab",
+              "type": "string",
+              "value": "https://www.chia.net/2023/03/19/mainnet-year-two/"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "Press SPACE or touch here to open the Chia Mainnet Anniversary Blog in another tab"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
         }
       ],
       "opacity": 1,
       "type": "objectgroup",
-      "visible": false,
+      "visible": true,
       "draworder": "topdown",
       "id": 5,
       "x": 0,
@@ -180847,7 +181099,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 4,
       "x": 0,
       "y": 0
@@ -180858,7 +181110,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-54d6a7f8.png",
+      "image": "map-chunk-1-b8c0f5b2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -180894,7 +181146,7 @@
     {
       "columns": 14,
       "firstgid": 257,
-      "image": "map-chunk-2-54d6a7f8.png",
+      "image": "map-chunk-2-b8c0f5b2.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -180912,7 +181164,7 @@
   "height": 100,
   "infinite": false,
   "nextlayerid": 35,
-  "nextobjectid": 19,
+  "nextobjectid": 29,
   "orientation": "orthogonal",
   "properties": [
     {

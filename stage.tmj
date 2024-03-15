@@ -5704,7 +5704,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 10,
       "x": 0,
       "y": 0
@@ -7341,7 +7341,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 11,
       "x": 0,
       "y": 0
@@ -9791,7 +9791,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 6,
       "x": 0,
       "y": 0
@@ -9810,7 +9810,7 @@
             {
               "name": "focusable",
               "type": "bool",
-              "value": true
+              "value": false
             },
             {
               "name": "jitsiConfig",
@@ -9867,7 +9867,7 @@
       ],
       "opacity": 1,
       "type": "objectgroup",
-      "visible": false,
+      "visible": true,
       "draworder": "topdown",
       "id": 5,
       "x": 0,
@@ -12318,7 +12318,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 4,
       "x": 0,
       "y": 0
@@ -12329,7 +12329,7 @@
     {
       "columns": 7,
       "firstgid": 1,
-      "image": "stage-chunk-1-1b928499.png",
+      "image": "stage-chunk-1-a22637cc.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
