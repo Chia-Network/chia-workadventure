@@ -684,6 +684,11 @@
                          "value":"jitsiRoomStage"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"moderator"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -720,7 +725,7 @@
                  "text":
                     {
                      "pixelsize":72,
-                     "text":"Exit",
+                     "text":"Enter",
                      "wrap":true
                     },
                  "type":"",
