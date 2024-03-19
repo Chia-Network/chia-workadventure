@@ -8090,8 +8090,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":21,
          "firstgid":38748,
-         "source":"tilesets\/selected-tilsets\/character\/Marmot.tsx"
+         "image":"src\/assets\/character\/Marmot.png",
+         "imageheight":579,
+         "imagewidth":672,
+         "margin":0,
+         "name":"Marmot",
+         "spacing":0,
+         "tilecount":378,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
