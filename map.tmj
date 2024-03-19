@@ -8064,8 +8064,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":37946,
-         "source":"tilesets\/selected-tilsets\/character\/Bob_phone_32x32.tsx"
+         "image":"src\/assets\/character\/Bob_phone_32x32.png",
+         "imageheight":64,
+         "imagewidth":288,
+         "margin":0,
+         "name":"Bob_phone_32x32",
+         "spacing":0,
+         "tilecount":18,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
