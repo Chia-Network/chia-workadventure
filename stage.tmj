@@ -9862,7 +9862,7 @@
           "height": 79.875,
           "rotation": 0,
           "text": {
-            "text": "Enter",
+            "text": "Exit",
             "pixelsize": 72,
             "wrap": true
           },
@@ -12334,7 +12334,7 @@
     {
       "columns": 7,
       "firstgid": 1,
-      "image": "stage-chunk-1-854397ec.png",
+      "image": "stage-chunk-1-c0d5d569.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
